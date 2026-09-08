@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-08 21:33:55",
+    "updated_at": "2026-09-09 02:34:57",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -129,6 +129,22 @@
         ]
     },
     "songs": [
+        {
+            "artist": "aimyon",
+            "title": "AIMYON B-SIDE COLLECTION ALBUM",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/122/607/88122607_1788679328047_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88122607",
+            "found_at": "2026-09-09 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "aimyon",
+            "title": "AIMYON BEST ALBUM - Chase the Lips! -",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/122/962/88122962_1788684091394_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88122962",
+            "found_at": "2026-09-09 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "Soyeon",
             "title": "끝내주는 인생",
