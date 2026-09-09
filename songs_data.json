@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-09 02:34:57",
+    "updated_at": "2026-09-09 21:42:34",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -129,6 +129,22 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Hearts2Hearts",
+            "title": "Moonride",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/130/784/88130784_1788850896175_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88130784",
+            "found_at": "2026-09-09 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Rothy",
+            "title": "Back to Me",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/130/795/88130795_1788851203380_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88130795",
+            "found_at": "2026-09-09 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "aimyon",
             "title": "AIMYON B-SIDE COLLECTION ALBUM",
