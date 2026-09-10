@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-10 02:32:46",
+    "updated_at": "2026-09-10 21:34:02",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -129,6 +129,22 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Gyubin",
+            "title": "［SERIES363］ #03",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/113/646/88113646_1788788895788_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88113646",
+            "found_at": "2026-09-10 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "IU",
+            "title": "이 별로부터",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/135/998/88135998_1788936742649_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88135998",
+            "found_at": "2026-09-10 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "Hearts2Hearts",
             "title": "Moonride",
